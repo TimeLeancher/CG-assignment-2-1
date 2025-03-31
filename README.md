@@ -24,4 +24,17 @@ Result of assignmet
 Explanation
 ---
 
+s were added to store the material properties of each surface.  
+have ka (ambient reflection coefficient), kd (diffuse reflection coefficient), ks (specific reflection coefficient), and specific_power as member variables.  
+Material classe![matterial](https://github.com/user-attachments/assets/0de692d1-7cb5-4c2b-968b-b31fc5620bdb)  
+Surface Classes:  
+Added a getMaterial() virtual function that returns a Material object.  
+![surface](https://github.com/user-attachments/assets/b241983a-4cdf-48eb-bd34-78c8bf07b7a7)  
+
+Plan and Sphere classes:  
+Add a Material Member variable to store the material for each surface.  
+Modify the constructor to accept the Material object as a factor.  
+Implement the getMaterial() function to return the material on that surface.  
+![matterial](https://github.com/user-attachments/assets/0a07c150-5f94-4183-9de9-c63e17fa316b)  
+
 
