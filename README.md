@@ -59,10 +59,8 @@ main function:
 Create a Material object for each surface.  
 Passes the position of the light source when creating the Scene object.  
 When creating a plane and sphere object, it delivers that material.  
-![main](https://github.com/user-attachments/assets/6d259816-7c96-498e-84e6-37153294d3c5)
-
-
-
+![main](https://github.com/user-attachments/assets/6d259816-7c96-498e-84e6-37153294d3c5)  
+![given](https://github.com/user-attachments/assets/7f7b2a84-8066-433f-a65f-1e36b3065a68)
 
 
 
